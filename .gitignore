@@ -6,7 +6,6 @@ tools/rea-runtime/
 tools/unblob-packages/
 tools/unblob-venv/
 tools/binwalk-src/
-build/NAO_INSTALAVEL/
 __pycache__/
 *.pyc
 analysis/binwalk-build.log

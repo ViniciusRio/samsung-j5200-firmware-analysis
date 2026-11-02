@@ -18,7 +18,7 @@ As verificações registradas ficam em `analysis/test-run.log`, `analysis/origin
 
 Os resultados estáticos já obtidos estão em `analysis/`. As dependências instaladas localmente, logs de instalação e caminhos específicos da configuração MCP não fazem parte do repositório; o procedimento e as versões estão documentados em `docs/engenharia-reversa.md`.
 
-`release/` permanece vazio. O pacote de firmware Samsung não é recompilado.
+`build/NAO_INSTALAVEL/` também contém a cópia experimental produzida neste trabalho. `release/` permanece vazio. O pacote de firmware Samsung não é recompilado.
 
 ## Resultados principais
 
