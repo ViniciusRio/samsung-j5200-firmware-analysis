@@ -1,0 +1,17 @@
+T-N14MJUABC.zip
+T-N14MJUABC.zip:Zone.Identifier
+T-N14MJUABC/
+extracted/msd-primeiros-64MiB.bin
+tools/rea-runtime/
+tools/unblob-packages/
+tools/unblob-venv/
+tools/binwalk-src/
+build/NAO_INSTALAVEL/
+__pycache__/
+*.pyc
+analysis/binwalk-build.log
+analysis/unblob-install.log
+analysis/unblob-debug.log.gz
+analysis/rea-setup.json
+analysis/rea-doctor.json
+analysis/*-error.log

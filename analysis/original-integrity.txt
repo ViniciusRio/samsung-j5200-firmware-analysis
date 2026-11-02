@@ -1,0 +1,3 @@
+T-N14MJUABC.zip: OK
+T-N14MJUABC/image/upgrade.msd: OK
+T-N14MJUABC/info.txt: OK

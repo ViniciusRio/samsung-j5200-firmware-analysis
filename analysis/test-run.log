@@ -1,0 +1,20 @@
+test_rejects_out_of_bounds (test_analyze_firmware.MsdLayoutTests.test_rejects_out_of_bounds) ... ok
+test_rejects_overlapping_regions (test_analyze_firmware.MsdLayoutTests.test_rejects_overlapping_regions) ... ok
+test_valid_contiguous_regions (test_analyze_firmware.MsdLayoutTests.test_valid_contiguous_regions) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.002s
+
+OK
+Navegação do protótipo: OK
+Protótipo local em build/NAO_INSTALAVEL/ (não é pacote para TV).
+test_rejects_out_of_bounds (test_analyze_firmware.MsdLayoutTests.test_rejects_out_of_bounds) ... ok
+test_rejects_overlapping_regions (test_analyze_firmware.MsdLayoutTests.test_rejects_overlapping_regions) ... ok
+test_valid_contiguous_regions (test_analyze_firmware.MsdLayoutTests.test_valid_contiguous_regions) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.002s
+
+OK
+Navegação do protótipo: OK
+Protótipo local em build/NAO_INSTALAVEL/ (não é pacote para TV).
